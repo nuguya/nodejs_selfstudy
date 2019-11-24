@@ -1,0 +1,26 @@
+{
+  "name": "chat-example",
+  "version": "1.0.0",
+  "description": "socket.io getting start project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuguya/nodejs_selfstudy.git"
+  },
+  "keywords": [
+    "node.js",
+    "socket.io"
+  ],
+  "author": "nuguya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuguya/nodejs_selfstudy/issues"
+  },
+  "homepage": "https://github.com/nuguya/nodejs_selfstudy#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
