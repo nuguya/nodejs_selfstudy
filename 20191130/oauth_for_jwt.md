@@ -136,3 +136,5 @@ export default (function() {
 
 ## 프로젝트 적용
 ![diagram](https://github.com/nuguya/nodejs_selfstudy/blob/master/20191130/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20diagram.png)
+
+- [spa-social-login-google-facebook](https://www.sitepoint.com/spa-social-login-google-facebook/)
